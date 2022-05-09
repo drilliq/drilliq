@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hey Giulia Q here 👋 #
 
-<!--
-**drilliq/drilliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an honours Psychology student interested in Cognitive Neuroscience 🧠 and an avid open-source advocate 👀! #sharetheknowledge.
 
-Here are some ideas to get you started:
+## Coding! ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly code in Javascript (Vanilla, React, Next, Gatsby, Express) with the odd Java here and there. Tailwind when I'm in a hurry.
+
+## Projects ##
+
+I set up a new GitHub recently to get rid of all of my horrible old code and I fancied a new start. My projects all involve some web element (front- or backend). 
+
+Feel free to check them out and send me a pull request - I'm always up for contributing and collabs.
+
+Right now, I'm writing software for my Psychology work on extended sence of agency 🤓 (check it out!)
+
+## The Future ##
+
+Next of my list of things to learn are Python and Matlab - I'm going to be an academic after all 🎓

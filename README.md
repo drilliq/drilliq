@@ -1,4 +1,4 @@
-# Hey Giulia Q here #
+# // giulia Q //
 
 I'm an honours Psychology student interested in Cognitive Neuroscience 🧠 and an avid open-source advocate 👀! #sharetheknowledge.
 
